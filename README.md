@@ -4,13 +4,11 @@ Este proyecto es una prueba técnica de desarrollo **Full Stack** utilizando **P
 
 ## 📦 Estructura del Proyecto
 
-/** 
 /
 ├── cliente/                # Front-End con HTML, Bootstrap y JS
 ├── api_sga/                # API Intermediaria (SGA)
 ├── api_aseguradora/        # API con BD que retorna las cotizaciones
 └── aseguradora.sql         # Script SQL para la base de datos
-*/
 
 ## 🚀 Tecnologías Usadas
 PHP Nativo (7.4+)
