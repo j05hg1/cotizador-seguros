@@ -60,6 +60,7 @@ http://localhost/cliente/index.html
 
 ## ✅ Cómo Probar
 1.Accede a http://localhost/cliente/index.html.
+en caso de haber asignado un puerto (ej: 8085) acceder a http://localhost:8085/cliente/index.html
 
 2.Llena el formulario con los datos requeridos.
 
